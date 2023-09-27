@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-27T12:20:55 IST" name="Surefire suite" finished-at="2023-09-27T12:21:18 IST" duration-ms="23819">
+    <groups>
+    </groups>
+    <test started-at="2023-09-27T12:20:55 IST" name="Surefire test" finished-at="2023-09-27T12:21:18 IST" duration-ms="23819">
+      <class name="com.wipro.makemytrip.testcases.HomepageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.wipro.makemytrip.testcases.HomepageTest@7e5afaa6]" started-at="2023-09-27T12:20:55 IST" name="setup" finished-at="2023-09-27T12:21:11 IST" duration-ms="16749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginTest()[pri:0, instance:com.wipro.makemytrip.testcases.HomepageTest@7e5afaa6]" started-at="2023-09-27T12:21:11 IST" name="LoginTest" finished-at="2023-09-27T12:21:15 IST" duration-ms="3718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:com.wipro.makemytrip.testcases.HomepageTest@7e5afaa6]" started-at="2023-09-27T12:21:15 IST" name="tear_down" finished-at="2023-09-27T12:21:18 IST" duration-ms="3284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- com.wipro.makemytrip.testcases.HomepageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
